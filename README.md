@@ -3,7 +3,7 @@
 I am currently a student at Codespace and I'm very excited to be learning software development.
 
 🧰 toolbox
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML Logo" width:"50"; height:"50"
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML Logo" width:"50"; height:"50">
 
 <!--
 **MuhammadJareer190/MuhammadJareer190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
